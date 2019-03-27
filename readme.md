@@ -1,4 +1,4 @@
-# Dactylogod
+# DactyloGod
 
 Dactylogod is a simple bot for [10fastfingers.com](https://10fastfingers.com) made with Puppeteer.
 
